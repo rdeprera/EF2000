@@ -1,1 +1,2 @@
-./dosbox*.conf
+dosBox*.conf
+!dosBox_EF2000.conf
