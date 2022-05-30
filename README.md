@@ -2,7 +2,7 @@
 
 Game data for EF2000, a popular flight simulation game from 90's created by the legendary company [DID](https://en.wikipedia.org/wiki/Digital_Image_Design).
 
-**Abandonware** since :?:
+**Abandonware** since :question:
 
 ## DOSBox :rage1:
 
