@@ -2,9 +2,9 @@
 
 Game data for EF2000, a popular flight simulation game from 90's created by the legendary company [DID](https://en.wikipedia.org/wiki/Digital_Image_Design).
 
-**Abandonware** since :?:
+**Abandonware** since :question:
 
-## DOSBox
+## DOSBox :rage1:
 
 - `git clone --depth 1 -b dosbox https://github.com/rdeprera/EF2000.git`
 - `dosbox -c dosBox_EF2000.conf EF2000.BAT`
@@ -12,7 +12,7 @@ Game data for EF2000, a popular flight simulation game from 90's created by the 
 `dosBox_EF2000.conf` is a [**DOSBox** configuration](https://www.dosbox.com/wiki/Dosbox.conf) file optimizide to run the this game.
 
 
-## DOSBox-X
+## DOSBox-X :rage2:
 - `git clone --depth 1 -b dosbox-x https://github.com/rdeprera/EF2000.git`
 - `dosbox-x -c dosBox-x_EF2000.conf EF2000.BAT`
 
