@@ -21,7 +21,6 @@ Game data for EF2000 2.0 TACTCOM, a popular **flight simulation game** from 90's
 
 ## DOSBox-X :rage2:
 
-Para utilizar
 - `git clone --depth 1 -b dosbox-x https://github.com/rdeprera/EF2000.git`
 - `dosbox-x -c dosBox-x_EF2000.conf EF2000.BAT`
 
