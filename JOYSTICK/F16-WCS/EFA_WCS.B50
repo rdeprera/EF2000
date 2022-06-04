@@ -1,0 +1,149 @@
+
+REM ษอออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+REM บ This file is for use with the FLCS controller only!  The WCS Mark II  บ
+REM บ may be used (and programmed) with this file.  The Command & Control   บ
+REM บ Center must be at release level 1.39.1 or later.                      บ
+REM ศอออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+REM               EF2000 - EuroFighter Tactical Flight Simulator
+
+REM                   A full function FLCS program for EF2000
+
+REM           Written and Tested by Jon Spencer & Damian Edwards 1995
+REM                  Big thanks to Tim for all his help!
+
+
+REM                   EF2000 MIDLIFE UPGRADE V2.10 by Jon
+REM
+REM           ALL THRUSTMASTER FILES UPDATED DUE TO POPULAR DEMAND BY
+REM
+REM                              Jon Spencer
+REM                           (Head Tester DID)
+REM
+REM                          Aditional testing by
+REM                              Carl Jackson
+REM
+REM
+REM
+REM
+REM ษอออออออออออออออออออออออออออออป
+REM บ WCS II Base Switch Settings บ
+REM บ --------------------------- บ
+REM บ Black Switch = Digital      บ
+REM บ Red Switch   = Analogue     บ
+REM ศอออออออออออออออออออออออออออออผ
+
+REM ษออออออออออออออออออออป
+REM บ Command Delay Rate บ
+REM ศออออออออออออออออออออผ
+
+RATE 100
+
+REM ษออออออออออออออออออออป
+REM บ Enable WCS Mark II บ
+REM ศออออออออออออออออออออผ
+
+USE WCS
+
+REM ษออออออออออออออออออออออออออออป
+REM บ Game Settings              บ
+REM บ -------------              บ
+REM บ Select a standard joystick บ
+REM ศออออออออออออออออออออออออออออผ
+
+Mdef efa_wcs
+
+REM ษอออออออออออออออออออออออออออออป
+REM บ FLCS Buttons & Control Hats บ
+REM ศอออออออออออออออออออออออออออออผ
+
+
+BTN S1 Toggle AB_On
+       Toggle AB_Off
+
+BTN S2 Toggle Virtual_On/Off
+       Toggle Forward_view
+BTN S3
+
+BTN S4 Res_Shift
+
+
+REM  HAT 1 /LARGE Hat, Top Back of FLCS
+REM  Primary Views
+
+BTN H1U /P RAW (#59 #E0 #75)
+    /R RAW (#F0 #E0 #75 #F0 #59)
+BTN H1D /P RAW (#59 #E0 #72)
+    /R RAW (#F0 #E0 #72 #F0 #59)
+BTN H1L /P RAW (#59 #E0 #6B)
+    /R RAW (#F0 #E0 #6B #F0 #59)
+BTN H1R /P RAW (#59 #E0 #74)
+    /R RAW (#F0 #E0 #74 #F0 #59)
+
+REM  HAT 2 /SMALL Hat, Top Back of FLCS
+REM  S3 In  = Alternate Views
+REM  S3 Out = Combat Controls
+
+BTN H2U S3_In Target_View
+        S3_Out Cycle_HUD_Tgts
+BTN H2D S3_In Enemy_Viewpoint
+        S3_Out Select_Guns
+BTN H2L S3_In IR_Missle_View
+        S3_Out Cycle_Air-Ground
+BTN H2R S3_In Gun/Missle_View
+        S3_Out Cycle_Missles
+
+REM  HAT 3 /MEDIUM Size, Top Back of FLCS
+REM  S3 In  = HUD Mode Selection
+REM  S3 Out = RADAR & MFD Controls
+
+BTN H3U S3_In HUD_ILS
+        S3_Out Forward_View
+BTN H3D S3_In HUD_REFUELING
+        S3_Out Cycle_MFD_2
+BTN H3L S3_In HUD_NAVIGATION
+        S3_Out Cycle_MFD_1
+BTN H3R S3_In HUD_AIR-AIR
+        S3_Out Cycle_MFD_3
+
+REM  HAT 4 /MEDIUM Size, Left Side of FLCS
+REM  S3 In  = Laser Target Designation System
+REM  S3 In = AutoPilot Controls
+
+BTN H4U S3_Out Cycle_Missles
+        S3_In AutoPilot_On/Off AP_1_Waypoint
+BTN H4D S3_Out Cycle_Air-Ground
+        S3_In AutoPilot_On/Off AP_3_Track
+BTN H4L S3_Out LaserTD_Zoom_Out
+        S3_In AutoPilot_On/Off AP_4_AutoThrottl
+BTN H4R S3_Out LaserTD_Zoom_In
+        S3_In AutoPilot_On/Off AP_2_Heading
+
+REM  WCS II Controls
+REM  S3 Button In = Takeoff & Landing Controls
+REM  S3 Button Out = Combat Controls
+
+
+BTN T1 /N Display_Map
+BTN T2 RAW (#E0 #70 #F0 #E0 #70)
+
+BTN T3 RAW (#E0 #71 #F0 #E0 #71)
+
+rem BTN T2 /N Chaff
+
+rem BTN T3 /N Flare
+
+BTN T4 /N Engine_1_On/Off
+
+BTN T5 /N Engine_2_On/Off
+
+BTN T6 /N Landing_Gear
+
+BTN T7 /N Wheel_Brakes
+BTN T8 /N Air_Brakes
+
+rem @Digital_CON
+rem @Throttle_Back
+
+rem BTN TG1 Fire_single
+rem BTN TG2 Fire_multi
