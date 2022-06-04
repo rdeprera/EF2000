@@ -1,8 +1,15 @@
-# (DID) EF2000 - Game Data
+# (DID) EF2000 2.0 TACTCOM - DOS
 
-Game data for EF2000, a popular flight simulation game from 90's created by the legendary company [DID](https://en.wikipedia.org/wiki/Digital_Image_Design).
+Game data for EF2000 2.0 TACTCOM, a popular **flight simulation game** from 90's for the **Eurofighter 2000 *Typhoon*** created by the legendary company [DID](https://en.wikipedia.org/wiki/Digital_Image_Design).
 
 **Abandonware** since :question:
+
+## Requirements
+
+- [DOSBox](https://www.dosbox.com/) or [DOSBox-X](https://dosbox-x.com/)
+
+### Optional 3dfx Support for DOSBox-x
+- nGlide (windows) or OpenGlide (macOs and GNU/Linux). See https://dosbox-x.com/wiki/Guide%3ASetting-up-3dfx-Voodoo-in-DOSBox‐X
 
 ## DOSBox :rage1:
 
@@ -13,6 +20,8 @@ Game data for EF2000, a popular flight simulation game from 90's created by the 
 
 
 ## DOSBox-X :rage2:
+
+Para utilizar
 - `git clone --depth 1 -b dosbox-x https://github.com/rdeprera/EF2000.git`
 - `dosbox-x -c dosBox-x_EF2000.conf EF2000.BAT`
 
