@@ -1,0 +1,213 @@
+REM  MACRO Definition for EF2000 Eurofighter tactical flight simulator
+~ษอออออออออออออป
+~บCockpit Viewsบ
+~ศอออออออออออออผ
+Forward_View = /N F1
+No_Instruments = /N SHF F1
+Left_View = /N KP7
+Right_View = /N KP9
+Back_View = /N F3
+
+
+~
+~
+~ษอออออออออออออป
+~บVirtual Viewsบ
+~ศอออออออออออออผ
+Virtual_On/Off = /N F2
+Virtual_Left = RSFT LAROW
+Virtual_Right = RSFT RAROW
+Virtual_Up = RSFT UAROW
+Virtual_Down = RSFT DAROW
+Res_shift = ALT r
+~
+~
+~
+~ษอออออออออออออออออออออออออออออออออป
+~บ         External Views          บ
+~ศอออออออออออออออออออออออออออออออออผ
+Ext_Dtl_On/Off = /N d
+Ext_Behind_View = /N F3
+Ext_PlayerFB = /N F6
+Ext_WingmanFB = /N F6 /N F6
+Ext_Target/Player = /N F7
+Ext_Padlock = /N F10
+Ext_Zoom_In = RSHFT KP7
+Ext_Player_External = F4
+Ext_Wingman_External = F5
+
+~
+~
+
+
+
+
+Target_View = /N F7
+Gun/Missle_View = /N F8
+IR_Missle_View = /N F8 /N F8
+~
+~
+~ษอออออออออออออออออออออออออออออออออป
+~บ       Engine/Throttle           บ
+~ศอออออออออออออออออออออออออออออออออผ
+Engine_1_On/Off = /N [
+Engine_2_On/Off = /N ]
+Both_Engs_On/Off = /N [ /N ]
+Throttle_Up = -
+Throttle_Down = +
+~
+~
+~
+~
+~
+~
+~
+AB_On = /N KP*
+AB_Off = /N KP/
+AB_Increase = KP*
+AB_Decrease = KP-
+AB_Full = 6
+~
+~
+~
+~
+~ษออออออออออออออป
+~บFlight Controlบ
+~ศออออออออออออออผ
+Auto_Recovery = /N l
+Landing_Gear = /N g
+Air_Brakes = /N b
+Arrester_Hook = /N h
+Deploy_Chute = /N ALT b
+Release_Chute = /N LSFT b
+Eject = /N ESC
+EjectEject = /N ESC /N ESC
+~ษอออออออออป
+~บAutoPilotบ
+~ศอออออออออผ
+AutoPilot_On/Off = /N a
+AP_1_Waypoint = /N 7
+AP_2_Heading = /N 8
+AP_3_Track = /N 9
+AP_4_AutoThrottle = /N 0
+~
+~
+~
+~
+~ษอออออออออออออออป
+~บCombat Controlsบ
+~ศอออออออออออออออผ
+Cycle_Missles = /N ENT
+Cycle_Air-Ground = /N BSP
+
+Cycle_HUD_Tgts = /N c
+Cycle_MFD_1_Tgts = /N n
+Fire_Weapon = SPC
+Fire_single = /N f
+~
+~ษออออออออออออออออป
+~บLaser Designatorบ
+~ศออออออออออออออออผ
+
+LaserTD_Left = LAROW
+LaserTD_Right = RAROW
+LaserTD_Up = UAROW
+LaserTD_Down = DAROW
+LaserTD_Zoom_In = <
+LaserTD_Zoom_Out = >
+LaserTD_Brk_Lock = /N x
+~
+~ษอออออออออออออออป
+~บSystems Controlบ
+~ศอออออออออออออออผ
+Cycle_MFD_1 = /N KP1
+Cycle_MFD_2 = /N KP2
+Cycle_MFD_3 = /N KP3
+Cycle_RADAR_Rng = /N r
+InfraRed_Sight = /N KP5
+~
+~
+~
+~
+~ษออออออออออออป
+~บHUD Controlsบ
+~ศออออออออออออผ
+HUD_On/Off =/N ALT h
+HUD_Bright_UP = u
+HUD_Bright_DN = y
+HUD_AIR-AIR = /N ENT
+HUD_AIR-GRND = BSP
+HUD_ILS = /N i
+HUD_NAVIGATION = RCTL
+HUD_REFUELING = /N '
+~
+~ษอออออออออออออออป
+~บCountermeasuresบ
+~ศอออออออออออออออผ
+Chaff = /N INS
+Flare = /N DEL
+Chaff_&_Flare = /N INS /N DEL
+ECM_On/Off = /N e
+Stealth_Mode = /N s
+~
+~
+~
+~
+~ษออออออออออออออป
+~บStores Controlบ
+~ศออออออออออออออผ
+Refueling_Mode = /N '
+Jettison_Fuel/AG = /N ALT j
+~
+~
+~
+~
+~
+~
+~
+~ษออออออออออออออป
+~บCommunicationsบ
+~ศออออออออออออออผ
+Weather_Report = /N ALT w
+Redisplay_Msg = /N l
+~
+~
+~
+~
+~
+~
+~
+~ษอออออออออออออป
+~บMisc Controlsบ
+~ศอออออออออออออผ
+Mfdl = KP1
+Mfdr = KP3
+Pause_Game = /N p
+Camera_On/Off = /N LALT v
+Screen_Shot = /N 4
+Time_Accelerate = /N t
+Quit_W/O_Dying = / LSHF q
+Display_Map = /N m
+~ษอออออออออออออออป
+~บ    Thottle    บ
+~ศอออออออออออออออผ
+rem @Digital_CON      = THR 1 40 4 KP+ KP- KP* KP/ KP* KP-
+rem @Throttle_Back    = BTN MT /P b w /R b w
+~
+~
+~
+~
+~
+~
+~
+~ษอออออออออออออออป
+~บSlash Modifiersบ
+~ศอออออออออออออออผ
+Force_Analog = /A
+S3_In = /I
+S3_Out = /O
+Toggle = /T
+Press = /P
+Release = /R
+Hold = /H
+No_Repeat = /N
