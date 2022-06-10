@@ -1,0 +1,93 @@
+
+REM ษอออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+REM บ This file is for use with the FLCS controller only!  The WCS Mark II  บ
+REM บ may be used (and programmed) with this file.  The Command & Control   บ
+REM บ Center must be at release level 1.39.1 or later.                      บ
+REM ศอออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+REM               EF2000 - EuroFighter Tactical Flight Simulator
+
+REM                   A full function FLCS program for EF2000
+
+REM           Written and Tested by Jon Spencer & Damian Edwards 1995
+REM                  Big thanks to Tim for all his help!
+REM ษอออออออออออออออออออออออออออออป
+REM บ WCS II Base Switch Settings บ
+REM บ --------------------------- บ
+REM บ Black Switch = Digital      บ
+REM บ Red Switch   = Digital      บ
+REM ศอออออออออออออออออออออออออออออผ
+
+REM ษออออออออออออออออออออป
+REM บ Command Delay Rate บ
+REM ศออออออออออออออออออออผ
+
+RATE 100
+
+REM ษออออออออออออออออออออป
+REM บ Enable WCS Mark II บ
+REM ศออออออออออออออออออออผ
+
+REM USE TQS
+
+REM ษออออออออออออออออออออออออออออป
+REM บ Game Settings              บ
+REM บ -------------              บ
+REM บ Select a standard joystick บ
+REM ศออออออออออออออออออออออออออออผ
+
+Mdef ef2000
+
+REM ษอออออออออออออออออออออออออออออป
+REM บ FLCS Buttons & Control Hats บ
+REM ศอออออออออออออออออออออออออออออผ
+
+BTN S1 Toggle AB_On
+       Toggle AB_Off
+
+BTN S2 Toggle Virtual_On/Off
+       Toggle Forward_view
+BTN S3
+
+BTN S4 /N Res_shift
+
+
+REM  HAT 1 /LARGE Hat, Top Back of FLCS
+REM  Primary Views
+
+BTN H1U /P RAW (#59 #E0 #75)
+    /R RAW (#F0 #E0 #75 #F0 #59)
+BTN H1D /P RAW (#59 #E0 #72)
+    /R RAW (#F0 #E0 #72 #F0 #59)
+BTN H1L /P RAW (#59 #E0 #59)
+    /R RAW (#F0 #E0 #6B #FO #59)
+BTN H1R RAW (#59 #E0 #74)
+    /R RAW (#F0 #E0 #74 #F0 #59)
+  
+BTN H2U S3_In Target_View
+        S3_Out Cycle_HUD_Tgts
+
+BTN H2D /N HUD_ILS
+
+BTN H2L /N Cycle_Air-Ground
+
+BTN H2R /N Cycle_Missles
+
+
+
+BTN H3U /N Forward_View
+BTN H3D S3_In HUD_REFUELING
+        S3_Out Cycle_MFD_2
+
+BTN H3L /N Mfdl
+
+BTN H3R /N Mfdr
+
+
+REM  HAT 4 /MEDIUM Size, Left Side of FLCS
+REM  S3 In  = Laser Target Designation System
+REM  S3 In = AutoPilot Controls
+
+BTN H4U /N Cycle_Missles
+
+BTN H4D /N Cycle_Air-Ground
