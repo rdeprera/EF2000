@@ -1,8 +1,10 @@
 # (DID) EF2000 2.0 TACTCOM - DOS
 
-Game data for EF2000 2.0 TACTCOM, a popular **flight simulation game** from 90's for the **Eurofighter 2000 *Typhoon*** created by the legendary company [DID](https://en.wikipedia.org/wiki/Digital_Image_Design).
+Game data for EF2000 2.0 TACTCOM, a popular **flight simulation game** from 90's for the **Eurofighter 2000 *Typhoon***.  
+![EF2000 Screenshots](https://user-images.githubusercontent.com/4818168/173661304-fd761db0-5fa1-4cef-ba77-2dc6ff66c1d9.gif)  
+> created by the legendary company [DID](https://en.wikipedia.org/wiki/Digital_Image_Design)  
+> **Abandonware** since :question:
 
-**Abandonware** since :question:
 
 ## Requirements
 
