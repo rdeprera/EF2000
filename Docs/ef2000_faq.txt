@@ -1,0 +1,582 @@
+************************ 
+THE GAME PLAY FAQ 
+************************ 
+The Game Play FAQ was created from messages posted in the EF2000 Pilots 
+Forum. It represents the collective wisdom of a number of different pilots. 
+The original messages have been edited for brevity. Where possible I've 
+included the name of the original contributor. If you've got any additions 
+or corrections to the FAQ, please drop me a note ate ef2...@im.gte.com. 
+
+
+Thanks to all of the EF pilots who contributed. 
+
+
+-Steve Black, 1st Eurofighter Air Wing -- 2/20/96 
+
+
+********************* AVIONICS ************************* 
+Radar 
+How to Read the Radar Display 
+There are three rows of numbers on the left hand side of the radar screen 
+and something that looks like a flipped check mark which keeps changing its 
+position and angle depending on planes movements. I figured that the middle 
+number is the radar range but as far as other two numbers and a flipped 
+check mark, I am at a loss. They are the effective radar range in up, 
+forward, and down directions. Note that when you change the radar mode from 
+look-up to look ahead to look down, the numbers shift accordingly. (Posted 
+by Ed Silverstein) 
+
+
+MMD/JTIDS 
+Question: ... In the upper right hand-corner of the MFD, just under the 
+altitude, there are two numbers. What are they? Also, how does one adjust 
+the range using J+ and J-? I apologize if the answers are in the manual, 
+but I cannot find them after searching for quite some time. Thanks! Posted 
+by: Jeff Robbins 
+
+
+To use the J+ and J- keys just click on them with the mouse. Make sure to 
+turn the map off. -- Posted by Steve Black 
+
+
+According to DID.... the two numbers relate to your X and Y co-ordinates in 
+the game world. Posted by: Jeff Robbins 
+
+
+******************************* WEAPONS*************************** 
+
+
+Laser Guided Bombs/Tiald Display 
+
+
+Aiming LGBs 
+
+
+Question: Can anyone give me any tips on hitting the right target with the 
+laser guided bombs? How can I make sure that I'll hit the right structure? 
+(Posted by: Dizzy Murphy ) 
+
+
+The first thing I do is use the view target facility in the pre-flight 
+briefing. That way I know what to look for when I approach the target. Try 
+to pick a geographical marker if possible (a different colour building or 
+one that's taller),this will also help. Then I fly to my target area and 
+with about 7 to 5 km from the target I activate TIALD (if you are directly 
+in line with the target it should select it for you automatically) then 
+track and laser the target. With the TIALD MFD selected drop bomb at 
+appropriate point (I assume you know how to read TIALD). Works every time 
+(for me at least) 
+(Posted by: Alex Porreca) 
+
+
+After activating the TIALD, turn the laser guidance on then slew the target 
+in the VDU using [shft ] arrow keys, for close up use the zoom. Hit Auto 
+pilot then F8 and watch the damage, or [shift] F7 for an outside view of 
+the target. Incidently after [shft] F7, [shft]c scrolls through the 
+available ground targets. 
+(Posted by: Nige ) 
+
+
+One simple note. Be careful not to bank too much while lasing or the target 
+tracking can be broken. This can also happen on autopilot if the plane 
+starts circling the target (which usually would be impossible if SAMS were 
+doing their jobs). 
+(Posted by: Jeff Robbins ) 
+
+
+Tiald Offset 
+
+
+Question: Has any body got TIALD to offset the aiming crosshair by using 
+shift and arrow keys. Because I find it annoying that you can only bomb the 
+selected target. 
+(posted by University of Hertfordshire) 
+
+
+The trick is to use the shift key on the right side of the keyboard (left 
+won't work) and the arrow keys. By using offset track you can move the 
+cross hairs all over the place (and get quite lost). 
+(posted by Steve Black) 
+
+
+Mavericks 
+
+
+Question: I fly towards the target and then I switch to the MFD to Slew the 
+seeker head to get the target in the middle. But the IRST shows the target 
+off and on if at all. Then I fire the maverick and most of the times it 
+misses the target. Can anyone give me some advice? (Posted by: George 
+Lindsay) 
+
+
+Yes, targets are a bit jerky using the "tlads." Low level Mav strikes are 
+good for a range of about 4-5 miles. If you want greater distances, 
+altitudes of 10,000-15,000 seem to work the best. (Posted by: Rick Olson) 
+
+
+Free Fall Bombs 
+Question: Can anyone suggest the best altitude and AOA for delivery of 
+cluster munitions and rockets? (Posted by: Jeffrey Bush) 
+
+
+10000 ft is a good altitude to start a bombing run. What I do is roll 
+inverted and pull back on the stick to avoid negative G's(really reds out 
+on ef2000), then align myself with target, keeping my nose down on target 
+(usually about 25-30 degrees). REMEMBER-You will gain a lot of speed doing 
+this, so chop your throttle and use airbrake if you have to. However, the 
+faster you go, the more accurate your CCIP will be on target. Try to pull 
+up as soon as you release or you will be caught in the blast(unless using 
+snakeyes). 
+For rockets, great altitude is not needed. the key to rockets is 
+range-don't shoot until 1-2 miles away; the closer the better. Make sure 
+the target is in the aiming reticle at the center of the hud. Oh, and try 
+to keep out of the dirt by keeping a close eye on your altimeter. (Posted 
+by: Brian MacPherson) 
+
+
+Finding the CCIP 
+Question: What is the CCIP? How do you find the CCIP?I 
+
+
+.....if you look at the bottom of the vertical line there will appear a 
+small horizontal line which indicates that point where the bomb will hit. 
+When this horizontal line passes through the target release your bombs. 
+Posted by: Alex Porreca 
+
+
+Try going into a steep dive over the target. I also use the F1 key to get 
+an unobstructed view. (Posted by Steve Black) 
+
+
+I have found that if I am bombing a pre-defined target, the CCIP bomb line 
+appears and I can bomb successfully. I have yet to find ways to mark 
+targets of opportunity and bomb them accurately. I usually do a very steep 
+dive and release the bombs on my best guesstimate. Posted by: Sim 
+
+
+Cluster Bombs 
+Question: I can't seem to get the hang of bombing with them. In the 
+practice I line up on target, I get the bomb sight up, The triangle is 
+showing, but I tell when to release. At top or bottom of bomb line. Am I 
+following the "X" or the triangle. ....Posted by: Frederick Overton 
+
+
+..The release level for the cluster bomb, as stated in the manual, is 180 
+feet. If you fly that low, you will see the CCIP at the bottom of the HUD 
+(small horizontal tick mark across the vertical line). I get best results 
+dropping the bomb a split second before the CCIP crosses the target. Posted 
+by: Jeff Robbins 
+
+
+... get low if you want a dense dispersion of the bomblets (200 feet or so) 
+or stay about 1000 feet over the target (you'll have to do this by "feel") 
+and pickle - it's a real wide area of coverage, but less probability of any 
+one bomblet hitting a target. Keep the pointy end forward --Posted by: Don 
+Nelson 
+
+
+Cannon Autofire 
+Question: On page 145 of the manual, a reference is made to "autofiring" in 
+regards to using the cannon. I can find no other reference anywhere in the 
+manual to explain what this is, or how to initiate it, or even to verify 
+that "autofiring" is engaged..... Posted by: Bob Cavender 
+
+
+Auto fire is automatic when using the cannon with the radar turned on. Lock 
+on to a enemy target (doesn't work if you lock on to a friendly) using the 
+"c" key, close to within cannon range (appx 2 miles) line up the pipper on 
+your target( should be surrounded by solid green box on the hud) and the 
+cannon should start firing by it self. Note : the pipper has to settle on 
+the target for a second, it won't work if the target just passes through 
+it. I haven't tried using it in tracking mode because I find using tracking 
+mode in a dogfight is a sure method of getting a silk elevator ride. Posted 
+by: RIGGER 
+
+
+************************REFUELING**************************** 
+Refueling Tricks 
+
+
+Question: How do I refuel? 
+
+
+One trick in the game that works is reduce your speed to +10 KTS faster 
+than the tanker and use the `(tilde) key to adjust your joystick 
+sensitivity to about 25%. I know this seems like cheating, but there are 
+aircraft in the US inventory that have an air refueling mode for their 
+flight controls to make A/R easier Also you must make two joystick inputs 
+for EVERY maneuver you want to make behind the tanker. To hook up to the 
+basket, you must initiate a turn and then almost immediately bank the other 
+way to take out the correction. This will allow you to move in small 
+increments which is the way real airplanes perform A/R. 
+Posted by: Capt Keith Marlowe 
+
+
+Here's another approach to inflight refueling which works for me. Approach 
+the tanker, remembering to request permission to join. The trick to 
+maintaining a good closure speed is to use the autothrottle set to 309 kts, 
+which is about 7kts faster than the tanker. As mentioned in other messages 
+you need to be very smooth and gentle on the stick in order to avoid 
+ploughing into the tanker an making a dirty smudge in the sky! Posted by: 
+Rez Manzoori 
+
+
+.... it *IS* possible. The trick, (just like in the real thing) is to 
+concentration being smooth. Personally I think the 50+ KTS rule is a little 
+too high. A closure with a 2 foot dish at 50 knots? Here are my notes on 
+air-refueling: 
+1. throttle to 75% - use more for a faster closing, but be ready to back 
+down when you need to. 
+2. only use the airbrake to bleed off extra speed. You cant deploy and stow 
+the brake fast enough to keep pace with the tanker. 
+3. Reduce your closing rate to +7 KTS IAS - This gives ample time to line 
+up on the hose. 
+4. avoid over-correcting. If your plane is drifting 
+to port, use a slight amount Posted by: Rob Marley 
+Finding the Tanker 
+How do I find the tanker? 
+...no matter where you are, if you select your air refueling (AR) HUD mode 
+it will display the heading to the tanker Posted by: John Taylor 
+
+
+The mid air HUD refueling mode will tell you where to go. Sometimes there 
+is more than one airborne tanker. I could be wrong, but I think I recall 
+being able to cycle refueling HUD info between different tankers using the 
+C key just like when you cycle targets on radar. Posted by: Jeff Robbins 
+
+
+********************** STRATEGY AND TACTICS****************** 
+Avoiding Air-to-Air Missiles 
+
+
+Question: - My DASS seems to fail me too often. I'll get blasted out of the 
+sky without warning. Does anybody know how to make the DASS work better? 
+- How do I know if I have to throw a Chaff or Flare? Chaff is for 
+heat-seeking, Flare for IR the manual says, but how on earth do I know 
+what's coming at me?? ... Posted by: Mark Jonker 
+
+
+Kick your DASS out to 15-30 mile range. It seems to be more effective at 
+that setting. (a bug??) DASS goes inactive when you use the #3 MFD to show 
+anything other than the DASS.. Also; RTFM re: flares and chaff.. You can 
+launch either manually with the INS and DEL keys. Keep hackin away at it, 
+pretty soon your situational awareness will improve; and things get A LOT 
+easier.. hope this helps.. Posted by: Steve Anthony 
+
+
+You don't have time to try and figure out what sort of missiles are coming 
+at you so you have got to use both chaff and flares at the same time. (I do 
+and it works okay). Changing direction can also be useful once you deployed 
+some chaff and flares. Also, don't forget to use your ECM. Posted by: Alex 
+Porreca 
+
+
+When a missile comes at you regardless if it is Infra red or radar, lower 
+your thrust: 1. generate less heat 2. if you are too fast you can't turn 
+that fast!!! 3. release 3x chaff and 3x flare and brake left/right and 
+right after you get 90deg to the ground, pull for 3 sec or more and brake 
+more to the same side you turned last time till you are 45deg from the 
+ground release more chaff and flare and pull as hard on the stick as you 
+can!!! make sure you watch the altitude and horizon!!! Posted by: Tom 
+
+
+1.IR and heat-seeking missiles are the same! 
+2.Use chaffs against radar-guided missiles, and flares against IR-guided 
+missiles. Remember: It is not embarrassing to return without chaffs and 
+flares but to return without your plane! 
+3.Always turn hard out of the missile's flight path at high speed. 
+4.Don't rely too much on DASS. Every modern Russian fighter has IR tracking 
+systems -- just like the EF2000. They don't need radar to fire IR-guided 
+missiles or guns at you. Posted by: Joerg Jooss 
+Any hints on avoiding both AA and SAMS?! I find myself just turning wildly 
+with no plan or strategy and hoping for the best.. Posted by: Paul 
+Wasserman 
+
+
+I find I can quite successfully avoid missiles if I keep velocity above 1 
+mach, and keep DASS on all the time, and ECM on when fired at. You may not 
+realize, but when you play with anything in the third MFD, 
+DASS turns itself off, i.e., if you check you fuel level, you will need to 
+turn DASS back on. Posted by: Clinton Isle 
+
+
+Missiles in Padock View 
+Questions: I have some problems while padlocking missiles....I can't break 
+the visual lock until missile crashes on the ground or run out of 
+fuel...!!! 
+
+
+I have found that if you flick back to the hud view that you can then 
+padlock a new target. Posted by: steve mcginnis 
+
+
+CAP Flights 
+
+
+Question: Is it normal to not encounter any enemy aircraft on a CAP? If so 
+(or not), exactly how long are you supposed to fly in circles in order to 
+get a 100% rating? Posted by: Joe Gayle 
+
+
+When I'm flying a cap there is a waypoint 8, it's the landing waypoint but 
+I can't get to it. It goes 6-7 
+and then 1. Anyone have a solution? Posted by: Fredrik Hofgren 
+
+
+CAP's are normally four hour flights. The autopilot will fly you thru the 
+CAP waypoints(1-6).When you want to return to base, set your AP to the 
+"landing" waypoint or manually fly in. Posted by: Rick Olson 
+One of the replies below said that a CAP was a 4 hour flight. Do you really 
+have to fly 4 hours in order to get 100% rating, or can you just fly 
+through the waypoints one time and return to base? If there are no enemies, 
+I don't want to fly in circles for very long. Posted by GSU 
+
+
+Try using shift-s, it will advance you through time by 1/2 hour periods or 
+until you get vectored to intercept by AWACS 
+
+
+Identifying Friend or Foe (IFF) 
+
+
+Question:Has anyone found the ""IFF"" command to help id friend or foe...I 
+have shot down many friendly aircraft... Posted by: DAN DAMATO 
+
+
+According to the docs there isn't any IFF, it's supposed to be automatic. 
+However, I have found the following... It looks like radar guided missiles 
+(AMRAAMs, S25s) won't lock on a friendly cause you can't seem to target 
+them. IR ones can be fired at friendlies, the HUD will allow you to target 
+a friendly, however I think that the target tracker contains an X in it as 
+an indicator. Posted by: Bob Stewart 
+
+
+Engaging When Low on Fuel 
+
+
+Question: What happens when you're at the end of an escort mission and 
+you're low on fuel and all of a sudden bandits appear on your JTIDS screen? 
+
+
+Well, unless you're shot up or have no weapons left to fire, you're obliged 
+to engage ASAP. 
+One trick (there are many) is to turn your radar off and try and sneak 
+around the bandit of your choice, then turn your radar back on, acquire a 
+missile lock and fire ASAP. That's for IR missiles. Radar guided missiles 
+can be launched from a variety of angles. The success or failure of these 
+missiles depends on A LOT of different factors. Anyway, with either type of 
+missile, the key is to get into a good firing position without the bandit 
+knowing you're there. Easier said than done, but that's the ideal. 
+Remember, when your radar is on, you're giving off signals that the bandits 
+can pick up. JTIDS is so cool because with a little practice, you can get 
+into a nice firing position on your enemy without him/her ever knowing 
+you're there. Posted by: Dan (Daniel...@aol.com) 
+
+
+Busy Airfield 
+Question: You approach the field and message out "For Recovery". Suddenly 
+the tower says "Negative. Field Busy". What do you do? 
+
+
+Well, depending on the amount of gas you have left, you can either orbit or 
+hit the nearest tanker...if there's one within reach. And what if you can't 
+do either? Land. Only one problem. Your other wingmen won't follow if the 
+tower says the field is still busy. As far as the computer is concerned, 
+they eventually just fall out of the air. I don't know about your EF 
+program, but mine always locks up on a loop with this vaguely Baltic tower 
+operator saying the field is STILL busy. So, with no other way to control 
+your wingmen (that I've found), you just have to resign yourself that you 
+actually put in a day's work and the program just has a glitch. Or so it 
+seems to me. The point is, whether you got recognition or not, you 
+fulfilled your mission. Okay, so you don't get credit. What else is new? 
+Posted by: Dan (Daniel...@aol.com) 
+
+
+Low on Gas and Out of Weapons 
+And one last thing. When you're running low of gas and weapons, and the 
+bandits are closing, send out that MAYDAY call for help. That's what those 
+other guys are flying the CAP missions for. 
+Good luck. And check that 
+JTIDS constantly. Posted by: Dan (Daniel...@aol.com) 
+
+
+Enemy ECM 
+( 
+Question: I was wondering if there was any way to accurately target enemy 
+planes once they switched their ecm on. ever time my wingman say "music" my 
+radar blips fade in and out and the missile lock tone turns on and off. Is 
+there any way to counteract this. Posted by: steve mcginnis 
+
+
+...the best way to counter enemy ecm is to get in closer so your radar can 
+burn through their jamming... keep an eye on the target aspect indicator: 
+if the target is flying perpendicular to you don't waste your radar 
+missiles...get in closer and tag him with an IR missile...or guns. Posted 
+by: Fangs 
+
+
+Wingmen Comms & Tactics 
+
+
+Question...When my wingman says to attack his target, is there any way to 
+see what his target is? Or do I have to somehow figure it out? Posted by: 
+F14 
+
+
+Go to page 55 in your EF2000 manual. It says pressing F5 will toggle 
+through the wingman's different views. One view is your wingman's cockpit 
+view. . .maybe he'll have his target on display on his HUD. Posted by: Dino 
+
+
+Question:Does anyone know if there's a way to instruct your wingman to take 
+evasive action to dodge missiles. If there isn't a way...shouldn't there be 
+one? Posted by: Al Denby 
+
+
+Select "Engage" and tell the wingmen to break. 
+
+
+Question: What do I do when the Wingman says, "I'll engage, you cover." 
+
+
+When you're wingman says "I'll engage. You cover," go find another target. 
+He's got that one. Of course, you could order him to cover you instead. 
+Don't switch to landing HUD mode until you see the field. The regular nav 
+HUD mode will give you range to the airfield until then. Posted by: Clark 
+
+
+Question: Could someone please write a note on the proper use of Wingmen, 
+when to order them to Bracket, Drag, Break etc. ! posted by Justin 
+
+
+Wingmen are not totally useless honest! There are some bugs but they can 
+still be very useful. 
+In ground attack missions do not issue orders to wingmen after you have 
+reached the IP and they will proceed to attack the mission target. The 
+patch will solve this problem with the command running in. 
+As for air to air missions the RAF works on the free fighter system where 
+one fighter will engage and the other will provide cover and will NOT 
+engage another target (except to protect the wingman) until the roles are 
+reversed (hence you engage ill cover etc.). IF you remember this and keep 
+tabs on your number two with F5 everybody should survive a lot longer. I've 
+flown cap mission where the wingmen have become aces! 
+Wingmen are quite good at attacking enemy aircraft if you can keep fighters 
+of his tail.... though they do waste lots of ammo by shooting at already 
+damaged aircraft. As for the use of drag and bracket maneuvers drag is the 
+most useful. Use drag to entice enemies onto your wingman's tail where you 
+can easily splash them with a short range missile shot. Be quick though or 
+your wingman is history. 
+Bracket is only really good for splitting up enemy formations before a 
+close range dogfights. 
+Another useful command is the break command on the engage menu, use this 
+when the enemy fires a salvo that may be heading for your wingman or when 
+someone moves in on his six. This should help keep your number two alive 
+longer. NOTE: None of this applies to Wingmen three and four as they will 
+operate on there own in combat. 
+Posted by: James Clarke 
+
+
+******************COMMUNICATIONS****************** 
+Getting Clearance 
+
+
+Question: How do I get clearance to take off? 
+
+
+First, make sure that your waypoint is set to #1. You will only get 
+clearance to take-off once other flights are cleared. Sometimes you may be 
+faced with a wait while ATC gets their act together. You will then be given 
+the proper clearance to take-off. Posted by: Brent Norman 
+
+
+I use shift S to skip to the runway and the take off clearance usually 
+follows straight away. 
+Posted by: Vince Omodei 
+
+
+Emergency Landing 
+
+
+Question: What about Emergency Landing? 
+
+
+According to the manual there is an Emergency Landing request command. 
+However, it didn't make it to the first release. MAYBE it could be in the 
+patch. Posted by: Len Hjalmarson 
+
+
+Correct . There is no emergency landing option in the current release. Just 
+go ahead and land. 
+
+
+******************** FLIGHT INFORMATION SYSTEMS ************************** 
+Fuel Display 
+
+
+Question: Why do the fuel to base indicators change when using 
+afterburners? 
+
+
+When you engage afterburners you are dumping extra fuel into the jet pipes 
+(hence after-burn), so your rate of fuel consumption goes up dramatically. 
+(Posted by: Al Denby) 
+
+
+************************** NAVIGATING WITH WAYPOINTS ***************** 
+Question: Can anyone tell if there is a way to setup each waypoint ahead of 
+time; for example,I would like to be able to set all before take off, then 
+not worry about it, but it appears that I have to take care of each one in 
+flight. . Posted by: Rick Olson 
+
+
+While you are on the ground, or in the air, just hit pause and make your 
+adjustments [to the autopilot..Ed.] You can do that while in pause. It is 
+also fair since it takes you longer with a mouse than it does a real pilot 
+by hand.Gambit 
+
+
+Posted by: Cliff 
+When I'm flying a cap there is a waypoint 8, it's the landing waypoint but 
+I can't get to it. It goes 6-7and then 1. Anyone have a solution? Posted 
+by: Fredrik Hofgren 
+
+
+CAP's are normally four hour flights. The autopilot will fly you thru the 
+CAP waypoints(1-6).When you want to return to base, set your AP to the 
+"landing" waypoint or manually fly in. Posted by: Rick Olson 
+
+
+Question: How do I find the airfield. 
+
+
+One solution is to engage the ILS and then follow the waypoint carret. 
+
+
+*********************** STORES JETTISON********************** 
+Question: I wanted was to dump my air to ground for a dogfight. Also is 
+there a way to tell when the external fuel tanks are empty? Posted by: 
+Ricky Schehr 
+
+
+Check the manual again. I keep thinking that ALT-K jettisons fuel only, 
+whereas ALT-J will jettison everything - leaving you in a clean 
+configuration. I believe you can find out what the status of your external 
+tanks are by pressing MFD three and selecting 'STO.' Select your fuel tanks 
+to see which are empty. Posted by: Armando J. Heredia 
+
+
+*****************************TAXIING********************************** 
+Question...while taxing does your aircraft have the turn radius of an oil 
+tanker? From experience I know that aircraft nose steering is pretty 
+sensitive and I would prefer it to be the same here. Anybody have an idea? 
+
+
+Rudder pedals seem to change yaw while in flight at low speed. Nose wheel 
+steering seems to work well while taxiing. "shift ." goes right, "shift ," 
+goes left. try it 
+Posted by: surfdog 
+
+
+try the left"shift/<"and right"shift/>" wheel brakes to increse turn radis 
+heheh like driving a farm tractor.... 
+

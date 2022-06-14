@@ -1,0 +1,124 @@
+:Base SUPER_EF.HLP
+1 INTRODUCTION
+2 Introduction to Super EF2000 Ground School=INTRODUCTION_TO_SUPER_EF2000_GROUND_SCHOOL
+1 Views
+2 Internal views
+3 OVERVIEW internal views=OVERVIEW_INTERNAL_VIEWS
+3 F1 - Full HUD and HUD only view=FULL_HUD_VIEW
+3 SHIFT F1 - Heads down view=HUD_Cockpit_view
+3 F2 - Wide-angle padlock view=Wide_angle_padlock
+3 F3 - Check six view=Check_six_view
+3 F10 - Full padlock view=F10_FULL_VIEW_PADLOCK
+3 F11 - Missile padlock view=F11_MISSILE_PADLOCK_VIEW
+3 F12 - Wingman padlock view=F12_Wingman_padlock_view
+3 Easy view keys=EASY_VIEW_KEYS
+2 External views
+3 OVERVIEW - external views=OVERVIEW_EXTERNAL_VIEWS
+3 F4 - Player external view=F4_PLAYER_EXTERNAL_VIEW
+3 SHIFT F4 - Satellite view=SHIFT_F4_SATELLITE_VIEW
+3 F5 - Wingman view=F5_WINGMAN_VIEW
+3 F6 - Player fly-by view=F6_PLAYER_FLY_BY_VIEW
+3 SHIFT F6 - Other plane fly-by view=SHIFT_F6_OTHER_PLANE_FLY_BY_VIEW
+3 F7 - Target view=F7_TARGET_VIEW
+3 F8 - Weapon view=F8_WEAPON_VIEW
+3 F9 - Browse plane view=F9_BROWSE_PLANE_VIEW
+3 SHIFT F9 - Browse ground-mobile view=SHIFT_F9_BROWSE_GROUND_MOBILE_VIEW
+1 Weapons
+2 Air to Air Weapons
+3 OVERVIEW - AA weapons=OVERVIEW_AIR_TO_AIR_WEAPONS
+3 Mauser 27mm Cannon=Cannon
+3 AIM-9M Sidewinder Short Range AA Missile=AIM_9S
+3 ASRAAM Advanced Short Range AA Missile=ASRAAM
+3 AMRAAM Advanced Medium Range AA Missile=AIM_120_ADVANCED_MEDIUM_RANGE_AA_MISSILE_AMRAAM
+3 S-225 Long Range AA Missile=S_225
+2 Air to Ground Weapons
+3 OVERVIEW - AG Weapons=OVERVIEW_AIR_TO_GROUND_WEAPONS
+3 Bombs - Freefall=Bombs_Freefall
+3 Bombs - Laser guided=BOMBS_LASER_GUIDED_LGB
+3 Bombs - Cluster=Cluster_bombs
+3 Bombs - Runway cratering=Durandal
+3 CRV-7 Rockets=CRV_7_Rockets
+3 ALARM=ALARM
+3 Sea Eagle=Sea_Eagle
+3 Maverick=Maverick
+3 Cannon=Cannon
+1 Avionics
+2 OVERVIEW - Avionics=OVERVIEW_AVIONICS
+2 Head-Up Display
+3 OVERVIEW - Head-Up Display and Helmet Mounted Sight=OVERVIEW_HEAD_UP_DISPLAY_AND_HELMET_MOUNTED_DISPLAY
+3 HUD -  LANDING=HUD_LANDING
+3 HUD - REFUELING=HUD_REFUELING
+3 HUD - TERRAIN FOLLOWING=HUD_TERRAIN_FOLLOWING
+3 HUD - AIR TO AIR=HUD_AIR_TO_AIR
+3 HUD - AIR TO AIR AIM120 AMRAAM=HUD_AIR_TO_AIR_AIM120_AMRAAM
+3 HUD - AIR TO AIR AIM-132 ASRAAM=HUD_AIR_TO_AIR_AIM_132_ASRAAM
+3 HUD - AIR TO AIR AIM-9M SIDEWINDER=HUD_AIR_TO_AIR_AIM_9M_SIDEWINDER
+3 HUD - AIR TO AIR CANNON=HUD_AIR_TO_AIR_CANNON
+3 HUD - AIR TO AIR S-225 LRAAM=HUD_AIR_TO_AIR_S_225_LRAAM
+3 HUD - AIR TO GROUND ALARM=HUD_AIR_TO_GROUND_ALARM
+3 HUD - AIR TO GROUND BOMBS=HUD_AIR_TO_GROUND_BOMBS
+3 HUD - AIR TO GROUND CANNON=HUD_AIR_TO_GROUND_CANNON
+3 HUD - AIR TO GROUND CRV-7 ROCKETS=HUD_AIR_TO_GROUND_CRV_7_ROCKETS
+2 MFD and Cockpit Operations
+3 Autopilot system=_BML_MAIN_BMP_AUTOPILOT_SYSTEM
+3 Defensive Aids Sub-System (DASS)=DEFENSIVE_AIDS_SUB_SYSTEM_DASS
+3 Engine Management System=ENGINE_MANAGEMENT_SYSTEM
+3 Fuel Management System=FUEL_MANAGEMENT_SYSTEM
+3 Infra-Red Search and Track System (IRST)=INFRA_RED_SEARCH_AND_TRACK_SYSTEM_IRST
+3 Maverick Targeting System=MAVERICK_AIMING_SYSTEM
+3 Moving Map Display (MMD)=MOVING_MAP_DISPLAY_MMD
+3 Stores Management System=STORES_MANAGEMENT_SYSTEM
+3 Tactical Display (JTIDS)=JTIDS_TACTICAL_DISPLAY
+3 TIALD System
+4 Thermal Imaging & Laser Designation (TIALD) System=THERMAL_IMAGING_AND_LASER_DESIGNATION_SYSTEM_TIALD
+4 TIALD camera field-of-view=TIALD_CAMERA_FIELD_OF_VIEW
+4 TIALD lasing=TIALD_LASING
+4 TIALD offset tracking=TIALD_OFFSET_TRACKING
+4 TIALD tracking=TIALD_TRACKING
+3 Right glareshield
+3 Left glareshield
+4 OVERVIEW - left glareshield=Left_glareshield
+4 Afterburner warning light=Afterburner_warning_light
+4 Air brake warning light=Air_brake_warning_light
+4 Autopilot warning light=Autopilot_warning_light
+4 Brakechute warning light=Brakechute_warning_light
+4 Cabin pressure warning light=Cabin_pressure_warning_light
+4 Centerline tank warning light=Centerline_tank_warning_light
+4 DASS warning light=DASS_warning_light
+4 Engine warning lights=Engine_warning_lights
+4 Fuel warning light=Fuel_warning_light
+4 Head-up-display warning light=Head_up_display_warning_light
+4 Hydraulic system warning light=Hydraulic_system_warning_light
+4 Infrared missile launch light=Infrared_missile_launch_light
+4 IRST warning light=IRST_warning_light
+4 Jet pipe temperature warning light=Jet_pipe_temperature_warning_light
+4 JTIDS warning light=JTIDS_warning_light
+4 Keyboard controls=Keyboard_controls
+4 Missile launch warning light=Missile_launch_warning_light
+4 Missile lock warning light=Missile_lock_warning_light
+4 Moving map warning light=Moving_map_warning_light
+4 Navigation systems warning light=Navigation_systems_warning_light
+4 Oil warning light=Oil_warning_light
+4 Oxygen system warning light=Oxygen_system_warning_light
+4 Radar guided missile launch light=Radar_guided_missile_launch_light
+4 Radar warning light=Radar_warning_light
+4 Undercarriage warning light=Undercarriage_warning_light
+4 Wheel brake warning light=Wheel_brake_warning_light
+4 Wing tank warning lights=Wing_tank_warning_lights
+4 Weapon systems warning light=Weapon_systems_warning_light
+3 ECR-90 Radar
+4 ECR-90 Radar - standard AA mode=ECR_90_RADAR_STANDARD_AA_MODE
+4 ECR-90 Radar - boresight mode=ECR_90_RADAR_BORESIGHT_MODE
+4 ECR-90 Radar - elevation mode=ECR_90_RADAR_ELEVATION_MODE
+4 ECR-90 Radar - sea mode=ECR_90_RADAR_SEA_MODE
+1 User Interface
+2 Overview - Graphical user interface=Overview_Graphical_user_interface
+2 GUI - Quick combat menu=GUI_Quick_combat_menu
+2 GUI - Simulator menu=GUI_Simulator_menu
+2 GUI - Campaign menu=GUI_Campaign_menu
+2 GUI - Multiplayer menu=GUI_Multiplayer_menu
+1 Keyboard commands
+2 Keyboard controls=Keyboard_controls_unshifted
+2 Keyboard controls (Alt Held)=Keyboard_controls_Alt_Held
+2 Keyboard controls (Control Held)=Keyboard_controls_Control_Held
+2 Keyboard controls (shifted)=Keyboard_controls_shifted
