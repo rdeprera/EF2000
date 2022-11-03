@@ -16,7 +16,8 @@ Game data for EF2000 2.0 TACTCOM, a popular **flight simulation game** from 90's
 ## DOSBox :rage1:
 
 - `git clone --depth 1 -b dosbox https://github.com/rdeprera/EF2000.git`
-- `dosbox -conf dosBox_EF2000.conf EF2000.BAT`
+- Game configurations: `dosbox -conf dosBox_EF2000.conf CONF.EXE`
+- Play EF2000: `dosbox -conf dosBox_EF2000.conf EF2000.BAT`
 
 `dosBox_EF2000.conf` is a [**DOSBox** configuration](https://www.dosbox.com/wiki/Dosbox.conf) file optimizide to run the this game.
 
@@ -24,6 +25,7 @@ Game data for EF2000 2.0 TACTCOM, a popular **flight simulation game** from 90's
 ## DOSBox-X :rage2:
 
 - `git clone --depth 1 -b dosbox-x https://github.com/rdeprera/EF2000.git`
-- `dosbox-x -conf dosBox-x_EF2000.conf EF2000.BAT`
+- Game configurations: `dosbox -conf dosBox_EF2000.conf CONF.EXE`
+- Play EF2000: `dosbox -conf dosBox-x_EF2000.conf EF2000.BAT`
 
 `dosBox-x_EF2000.conf` is a [**DOSBox-X** configuration](https://dosbox-x.com/wiki/) file optimizide to run the this game.
